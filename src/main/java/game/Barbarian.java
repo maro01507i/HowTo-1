@@ -18,7 +18,9 @@ public class Barbarian extends Character {
 	@Override
 	public void display() {
 	// TODO Auto-generated method stub
+		logger.info("Estudiante A -linea 1 extra para conflicto.");
 		logger.info("You are a strong, hulky barbarian!!!.");
 		logger.info("Modificacion realizada desde Github simulando cambios hechos por el estudiante A.");
+		logger.info("Estudiante A -linea 2 extra para conflicto.");
 	}
 }
