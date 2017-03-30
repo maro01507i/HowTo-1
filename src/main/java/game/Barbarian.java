@@ -23,6 +23,6 @@ public class Barbarian extends Character {
 		logger.info("You are a strong, hulky barbarian!!!.");
 logger.info("Estudiante B añade lineas en medio para conflicto"); 
 		logger.info("Modificacion realizada desde Github simulando cambios hechos por el estudiante A.");
-		logger.info("Estudiante A -linea 2 extra para conflicto.");
+		logger.info("Estudiante A otro cambio de linea -linea 2 extra para conflicto.");
 	}
 }
