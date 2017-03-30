@@ -12,7 +12,7 @@ public class Barbarian extends Character {
 	* @param w Weapon with which the Barbarian will fight
 	*/
 	public Barbarian(WeaponBehaviour w) {
-		logger.info("Soy el estudiante B y estoy modificando el constructor."); 
+		logger.info("Soy el estudiante B y estoy modificando el constructor ."); 
 		super(w);
 	}
 	
